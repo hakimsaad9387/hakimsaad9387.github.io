@@ -11,5 +11,8 @@ This portfolio webpage is a work in progress - I will add to and customize it ov
 ##### My first test map
 <embed type="text/html" src="img/haskell.html" width="600" height="600">
 
+##### My second map
+<embed type="text/html" src="img/durhamLib.html" width="600" height="600">
+
 ***
 *Email: saad.hakim@colorado.edu*
