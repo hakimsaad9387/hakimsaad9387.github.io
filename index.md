@@ -8,10 +8,7 @@
 
 This portfolio webpage is a work in progress - I will add to and customize it over the coming weeks/months.
 
-##### My first test map
-<embed type="text/html" src="img/haskell.html" width="600" height="600">
-
-##### My second map
+##### My first map
 <embed type="text/html" src="img/durhamLib.html" width="600" height="600">
 
 ***
