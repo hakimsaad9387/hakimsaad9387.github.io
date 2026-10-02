@@ -13,7 +13,7 @@ This portfolio webpage is a work in progress - I will add to and customize it ov
 <embed type="text/html" src="img/durhamLib.html" width="600" height="600">
 
 ##### Portfolio Posts
-[Climate Portfolio: SW Tajikistan, NE Afghanistan, and Kunduz Province](climate_portfolio.md)
+[Climate Portfolio: SW Tajikistan, NE Afghanistan, and Kunduz Province]({{ "/climate_portfolio/" | relative_url }})
 
 
 ***
