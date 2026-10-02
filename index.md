@@ -15,7 +15,7 @@
 </div>
 
 ##### Portfolio Posts
-[Climate Portfolio: SW Tajikistan, NE Afghanistan, and Kunduz Province](climate_portfolio.md)
+[Climate Portfolio: SW Tajikistan, NE Afghanistan, and Kunduz Province](portfolio_post/06-climate-portfolio.html)
 
 
 ***
