@@ -11,6 +11,9 @@ This portfolio webpage is a work in progress - I will add to and customize it ov
 ##### My first map
 <embed type="text/html" src="img/durhamLib.html" width="600" height="600">
 
+##### Portfolio Posts
+[Climate Portfolio: SW Tajikistan, NE Afghanistan, and Kunduz Province](climate_portfolio.md)
+
 
 ***
 *Email: saad.hakim@colorado.edu*
