@@ -11,5 +11,7 @@ This portfolio webpage is a work in progress - I will add to and customize it ov
 ##### My first map
 <embed type="text/html" src="img/durhamLib.html" width="600" height="600">
 
+<embed type="text/html" src="portfolio_post/06-climate-portfolio" width="600" height="600">
+
 ***
 *Email: saad.hakim@colorado.edu*
