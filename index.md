@@ -17,7 +17,7 @@
 ##### Portfolio Posts
 [Climate Portfolio: SW Tajikistan, NE Afghanistan, and Kunduz Province](portfolio_post/06-climate-portfolio.html)
 
-[Climate Portfolio: Barren-Ground Caribou Migration and Habitat](portfolio_post/06-migration-portfolio.html)
+[Climate Portfolio: Barren-Ground Caribou Migration and Habitat](portfolio_post/06-caribou-migration.html)
 
 
 ***
