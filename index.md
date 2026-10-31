@@ -17,6 +17,8 @@
 ##### Portfolio Posts
 [Climate Portfolio: SW Tajikistan, NE Afghanistan, and Kunduz Province](portfolio_post/06-climate-portfolio.html)
 
+[Climate_Portfolio: Barren-Ground Caribou Migration and Habitat](portfolio_post/06-migration-portfolio.html)
+
 
 ***
 *Email: saad.hakim@colorado.edu*
